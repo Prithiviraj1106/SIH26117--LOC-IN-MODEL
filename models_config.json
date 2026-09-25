@@ -1,0 +1,33 @@
+{
+  "models": {
+    "chat": {
+      "name": "qwen2.5:7b",
+      "purpose": "General reasoning and chat",
+      "num_ctx": 8192
+    },
+    "code": {
+      "name": "qwen2.5-coder:7b",
+      "purpose": "Code generation and execution",
+      "num_ctx": 8192
+    },
+    "vision": {
+      "name": "qwen2.5vl:7b",
+      "purpose": "Image and document understanding",
+      "num_ctx": 8192
+    },
+    "reasoning": {
+      "name": "qwen2.5:7b",
+      "purpose": "Multi-step reasoning tasks",
+      "num_ctx": 8192
+    }
+  },
+  "target_hardware": {
+    "gpu": "6GB VRAM",
+    "note": "All models quantized to fit with headroom"
+  },
+  "ollama_host": "localhost:11434",
+  "network": {
+    "email_smtp": "localhost:1025",
+    "mailhog_web": "localhost:8025"
+  }
+}

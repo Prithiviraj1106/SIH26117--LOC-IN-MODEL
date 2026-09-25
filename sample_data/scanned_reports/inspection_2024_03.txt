@@ -1,0 +1,19 @@
+INSPECTION REPORT — Centrifugal Pump C-101
+Date: March 15, 2024
+Inspector: R. Sharma
+Location: Unit-3 Pump House
+
+Findings:
+- Bearing temperature: 82°C (threshold: 80°C — EXCEEDED)
+- Vibration: 3.8 mm/s (threshold: 2.5 mm/s — EXCEEDED)
+- Mechanical seal: Minor drip observed
+- Coupling alignment: 0.005 inches (threshold: 0.002 inches — EXCEEDED)
+- Base plate bolts: Tight, no visible corrosion
+- Electrical connections: Normal
+- Lubrication level: Adequate
+
+Recommended Action: IMMEDIATE bearing replacement and coupling realignment.
+Schedule during next planned outage. Monitor bearing temperature daily until repair.
+
+SOP Reference: SOP-PMP-001 (Centrifugal Pump Maintenance)
+Next Inspection Due: April 15, 2024

@@ -1,0 +1,21 @@
+MEMORANDUM
+
+To: Operations Manager
+From: Safety Officer
+Date: February 3, 2024
+Subject: Safety Audit Results - Pump House Area
+
+The annual safety audit of the pump house area revealed the following:
+
+1. All emergency stop buttons functional and accessible
+2. LOTO procedures correctly followed in 98% of observed maintenance activities
+3. Two instances of missing PPE compliance — corrective action issued
+4. Fire suppression system inspected and certified
+5. Ventilation system operating within specifications
+
+Recommendations:
+- Continue monthly PPE compliance checks
+- Schedule fire suppression system test for March 2024
+- Review ventilation system filters quarterly
+
+Next audit scheduled for August 2024.

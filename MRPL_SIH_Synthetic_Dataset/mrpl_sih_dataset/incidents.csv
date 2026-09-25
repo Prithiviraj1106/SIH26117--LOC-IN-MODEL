@@ -1,0 +1,6 @@
+incident_id,date,equipment_id,description,root_cause,corrective_action
+INC-001,2026-05-11,P-101,Abnormal vibration,Bearing degradation,Bearing replacement
+INC-002,2026-06-28,C-101,High temperature,Cooler fouling,Cooler cleaning
+INC-003,2026-07-14,HX-101,Low heat transfer,Fouling,Cleaning
+INC-004,2026-08-03,P-102,Seal leakage,Seal wear,Seal replacement
+INC-005,2026-08-29,P-101,Unusual noise,Alignment deviation suspected,Alignment inspection

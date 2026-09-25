@@ -1,0 +1,19 @@
+MEMORANDUM
+
+To: Engineering Department
+From: Maintenance Supervisor
+Date: January 15, 2024
+Subject: Centrifugal Pump Inspection Findings - Q4 2023
+
+During the fourth quarter inspection cycle, the following observations were noted for centrifugal pumps across all units:
+
+1. Pump C-101: Bearing temperature consistently running 5°C above baseline. Recommend bearing replacement during next planned outage.
+2. Pump C-204: Minor seal leak detected at mechanical seal. Seized pump for repair on January 10, 2024.
+3. Pump C-302: Vibration levels at 3.1 mm/s, exceeding the 2.5 mm/s threshold. Alignment check required.
+
+Recommended actions:
+- Schedule bearing replacement for C-101 in Q1 2024 shutdown
+- Complete C-204 repair and verify seal integrity
+- Perform alignment correction on C-302 before Q1 operations
+
+All findings documented in the maintenance management system (CMMS).

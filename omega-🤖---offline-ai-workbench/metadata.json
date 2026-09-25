@@ -1,0 +1,6 @@
+{
+  "name": "OMEGA 🤖 - Offline AI Workbench",
+  "description": "Secure, sovereign, and offline AI workspace powered by local Ollama models (llama3.1:8b, qwen2.5-coder:7b, qwen2-vl:7b, nomic-embed-text) with local RAG, Vision, and Coding intelligence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

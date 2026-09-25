@@ -1,0 +1,11 @@
+equipment_id,equipment_type,unit,service,status,rated_flow_m3_hr,rated_pressure_bar
+P-101,Centrifugal Pump,CDU-1,Feed Transfer,Running,500,8.0
+P-102,Centrifugal Pump,CDU-1,Product Transfer,Running,450,7.5
+C-101,Process Compressor,HCU-1,Hydrogen Compression,Running,1200,35.0
+V-101,Control Valve,CDU-1,Crude Feed Control,Running,300,10.0
+T-101,Storage Tank,Tank Farm,Intermediate Storage,Available,5000,2.0
+HX-101,Heat Exchanger,CDU-1,Feed Preheating,Running,800,12.0
+P-103,Centrifugal Pump,HCU-1,Recycle Service,Running,380,9.0
+V-102,Control Valve,HCU-1,Hydrogen Flow Control,Running,180,40.0
+T-102,Storage Tank,Tank Farm,Product Storage,Available,6000,2.5
+M-101,Electric Motor,Utilities,Cooling Water Pump Drive,Running,750,0.0

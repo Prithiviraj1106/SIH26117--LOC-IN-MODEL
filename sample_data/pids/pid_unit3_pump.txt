@@ -1,0 +1,30 @@
+P&ID — Unit 3 Pump Assembly
+Document Number: P&ID-U3-PA-001
+Revision: B
+Date: February 2024
+
+COMPONENTS:
+- Pump C-101 (Centrifugal, 50 HP)
+- Motor M-101 (50 HP, TEFC)
+- VFD VFD-101 (50 HP)
+- Suction Strainer SS-101
+- Discharge Valve DV-101 (Globe, 6" ANSI)
+- Isolation Valve IV-101 (Gate, 8" ANSI)
+- Pressure Transmitter PT-101
+- Temperature Transmitter TT-101
+- Vibration Sensor VT-101
+- Relief Valve RV-101 (set at 150 PSI)
+
+PIPING:
+- Suction line: 8" NPS, from suction tank T-101 to pump suction
+- Discharge line: 6" NPS, from pump discharge to header PH-03
+- Vent line: 2" NPS, to atmospheric vent
+- Drain line: 2" NPS, to drain tank DT-101
+
+CONTROL LOGIC:
+- Auto-start on demand signal from PLC
+- Speed control via VFD (0-60 Hz range)
+- High temperature alarm at 85°C, shutdown at 90°C
+- High vibration alarm at 4.0 mm/s, shutdown at 5.0 mm/s
+- High pressure alarm at 120 PSI
+- Low suction pressure alarm at 20 PSI

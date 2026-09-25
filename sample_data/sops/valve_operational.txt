@@ -1,0 +1,24 @@
+Standard Operating Procedure: Control Valve Operations
+
+Section 1: Valve Classification
+- Gate valves: Used for on/off isolation, not for throttling
+- Globe valves: Used for flow regulation and throttling
+- Butterfly valves: Used for large diameter isolation and modulation
+- Ball valves: Quick shut-off, suitable for high pressure systems
+
+Section 2: Operational Guidelines
+- Operate valves slowly to prevent water hammer
+- Never exceed the maximum allowable pressure (MAWP) rating
+- Verify valve stem packing is intact before operation
+- Check for proper valve positioning after actuation
+
+Section 3: Maintenance Requirements
+- Monthly: Stem lubrication and visual inspection
+- Quarterly: Seat and seal inspection
+- Annually: Full valve overhaul with replacement of gaskets and seals
+- After any emergency shutdown: Full inspection before restart
+
+Section 4: Calibration
+- Control valves should be calibrated every 6 months
+- Use certified pressure gauges for calibration reference
+- Document all calibration results in the maintenance log

@@ -1,0 +1,9 @@
+maintenance_id,equipment_id,date,issue,action_taken,status
+MNT-001,P-101,2026-06-15,High vibration,Bearing replaced,Completed
+MNT-002,P-101,2026-07-22,Alignment deviation,Coupling alignment corrected,Completed
+MNT-003,P-102,2026-08-05,Seal inspection,Seal inspected; no defect,Completed
+MNT-004,C-101,2026-08-12,High discharge temperature,Cooler cleaned,Completed
+MNT-005,HX-101,2026-08-19,Reduced heat transfer,Tube-side cleaning,Completed
+MNT-006,P-103,2026-08-25,Routine inspection,Lubrication and inspection,Completed
+MNT-007,P-101,2026-09-02,Vibration trending upward,Inspection recommended,Open
+MNT-008,V-101,2026-09-03,Slow response,Actuator calibration,Completed

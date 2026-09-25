@@ -1,0 +1,24 @@
+Standard Operating Procedure: Centrifugal Pump Maintenance
+
+Section 1: Safety Precautions
+- Always lock out and tag out (LOTO) before performing maintenance
+- Verify zero pressure in the suction and discharge lines
+- Wear appropriate PPE including safety glasses and gloves
+
+Section 2: Inspection Checklist
+- Check bearing housing temperature — should not exceed 80°C
+- Inspect mechanical seal for leaks
+- Verify coupling alignment within 0.002 inches
+- Check vibration levels — maximum allowable 2.5 mm/s
+- Inspect base plate bolts for tightness
+
+Section 3: Recommended Maintenance Intervals
+- Daily: Visual inspection of leaks and unusual noise
+- Weekly: Bearing temperature check and vibration monitoring
+- Monthly: Alignment check and lubrication
+- Annually: Full overhaul including impeller inspection
+
+Section 4: Emergency Procedures
+- If bearing temperature exceeds 85°C, shut down immediately
+- If seal leak is detected, isolate the pump and tighten or replace seal
+- In case of abnormal vibration, check for foreign objects in the suction

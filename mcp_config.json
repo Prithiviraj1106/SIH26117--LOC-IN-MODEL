@@ -1,0 +1,5 @@
+{
+  "auto_discover": true,
+  "search_folders": [".", "mcp_servers"],
+  "disabled_servers": []
+}

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.db
+*.log
+chroma_data/
+generated_files/
+
+# Frontend dependencies and build output
+omega-🤖---offline-ai-workbench/node_modules/
+omega-🤖---offline-ai-workbench/dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example

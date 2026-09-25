@@ -1,0 +1,6 @@
+report_id,date,shift,equipment_id,observation
+SR-001,2026-09-01,Day,P-101,Operator noticed slightly increased vibration; no visible leakage.
+SR-002,2026-09-01,Night,P-101,Pump sound louder than previous shift; monitor condition.
+SR-003,2026-09-02,Day,P-101,Vibration trend increasing; maintenance team informed.
+SR-004,2026-09-02,Night,C-101,Compressor operating normally; temperature stable.
+SR-005,2026-09-03,Day,HX-101,Heat transfer performance appears normal.
